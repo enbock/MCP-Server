@@ -1,0 +1,16 @@
+{
+  "name": "itbock-mcp-server",
+  "version": "1.0.0",
+  "description": "itbock-MCP Server to enhance GitHub Copilot with i.e. Web Search capabilities",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["mcp", "brave", "search"],
+  "author": "Endre Bock <dev@itbock.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3"
+  }
+}

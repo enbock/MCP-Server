@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "mcp-itbock-server": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["C:\\<your path to this project>\\MCP-Server\\index.js"],
+      "env": {
+        "BRAVE_API_KEY": "dein-brave-api-key-hier"
+      }
+    }
+  }
+}
