@@ -87,7 +87,7 @@ setTimeout(() => {
         id: 3,
         method: 'tools/call',
         params: {
-          name: 'brave_search',
+          name: 'internet_search',
           arguments: {
             query: 'MCP Protocol',
             count: 5
